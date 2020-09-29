@@ -1,0 +1,10 @@
+#blue{
+    background-image: linear-gradient(to right,#227EF0, #0c2f8f);
+}
+
+#filter{
+    filter: grayscale(1.0);
+}
+#filter:hover{
+    filter: grayscale(0);
+}
